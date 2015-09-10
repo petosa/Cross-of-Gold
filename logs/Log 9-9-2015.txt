@@ -1,0 +1,2 @@
+[2015-09-09 23:43:51.203] 
+Application opened and initialized.
