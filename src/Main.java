@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class Main{
 
-	/* Stock list should be derived from 
+	/* Stock list should be derived from:
 	 * http://www.nasdaq.com/screening/companies-by-name.aspx?letter=0&exchange=all&render=download
 	 */
 
